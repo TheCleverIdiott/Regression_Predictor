@@ -6,7 +6,7 @@ import seaborn as sns
 import plotly.express as px
 
 # Loading the dataset to pandas DataFrame from remote link
-data = "http://bit.ly/w-data"               #change
+data = "https://raw.githubusercontent.com/TheCleverIdiott/Score_Predictor/main/Dataset"   
 students_data = pd.read_csv(data)
 students_data.head()
 
