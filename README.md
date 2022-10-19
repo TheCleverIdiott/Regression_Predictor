@@ -14,4 +14,6 @@ Predicting Scores of a student Using a Simple Linear Regression Model Based on t
 
 ## Authors
  
-Contributors/Members: - [Aritra Ghosh](https://github.com/TheCleverIdiott)
+Contributors/Members: - 
+- [Aritra Ghosh](https://github.com/TheCleverIdiott)
+- [Priya Gupta](https://github.com/guptapriya-83900)
