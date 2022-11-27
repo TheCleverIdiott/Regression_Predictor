@@ -3,6 +3,15 @@
 # Linear Regression Based Score Predictor
 
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/TheCleverIdiott/AI-Score-Predictor">
+    <img src="https://github.com/TheCleverIdiott/AI-Score-Predictor/blob/main/logo.jpeg" alt="Logo">
+  </a>
+ </div>
+
+
 Predicting Scores of a student Using a Simple Linear Regression Model Based on the number of hours the student studied in Python
 
 
