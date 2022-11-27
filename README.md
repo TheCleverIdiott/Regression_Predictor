@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/TheCleverIdiott/AI-Score-Predictor">
-    <img src="https://github.com/TheCleverIdiott/AI-Score-Predictor/blob/main/logo.jpeg" alt="Logo">
+  <a href="">
+    <img src="https://github.com/TheCleverIdiott/Regression_Predictor/blob/main/linear%20regression%20score.png" alt="Logo">
   </a>
  </div>
 
