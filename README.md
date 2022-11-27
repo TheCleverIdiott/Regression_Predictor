@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://github.com/TheCleverIdiott/Regression_Predictor/blob/main/linear%20regression%20score.png" alt="Logo">
+    <img src="https://github.com/TheCleverIdiott/Regression_Predictor/blob/main/linear%20regression%20score.png" height="50px" alt="Logo">
   </a>
  </div>
 
