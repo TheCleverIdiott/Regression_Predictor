@@ -1,11 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import plotly.express as px
-import warnings
-
-warnings.filterwarnings("ignore")
 
 data = "https://raw.githubusercontent.com/TheCleverIdiott/Score_Predictor/main/Dataset"   
 students_data = pd.read_csv(data)
@@ -50,5 +45,6 @@ def main():
     
 if __name__ == '__main__':
     main()
+    
     
     
